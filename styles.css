@@ -182,9 +182,7 @@ img{
     font-weight:800;
 }
 
-.user-icon{
-    content: url("../images/icon.jpg");
-}
+
 
 .headline{
     display: flex;
